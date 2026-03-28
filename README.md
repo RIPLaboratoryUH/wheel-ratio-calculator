@@ -1,3 +1,7 @@
+# About
+
+This repository includes a Python example script is included to automate the of the wheel radius given test data. The data given is an aboslute distance traveled, along with the y-displacement measured after said total distance. 
+
 # Estimating Vehicle Turning Radius from Lateral Drift
 
 This method estimates a vehicle's turning radius using measured lateral
